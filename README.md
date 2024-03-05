@@ -5,7 +5,7 @@ Android App Developer | MERN Stack Developer
 
 - 🔭 I’m currently working on Android Development Projects 
 - 🌱 I’m currently learning JavaScript React-Native 
-**- 👯 I’m looking to collaborate on 
+<!--- 👯 I’m looking to collaborate on -->
 - 💬 Ask me about Application development Web Development
 - 📫 How to reach me: samanrahman927@gmail.com
 - 😄 Pronouns: She/her
