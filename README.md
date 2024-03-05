@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-**Saman-R/Saman-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Saman Rahman 
+Android App Developer | MERN Stack Developer
 
 - 🔭 I’m currently working on Android Development Projects 
 - 🌱 I’m currently learning JavaScript React-Native 
